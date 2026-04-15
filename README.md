@@ -13,7 +13,7 @@ Implemented batch, stochastic, and mini-batch gradient descent for linear regres
 Linear regression is finding the projection of y onto the column space of X. The normal equation solves this in one step; gradient descent walks there iteratively.
 
 ## Files
-- `batch_gd.py`: Vectorized batch gradient descent
+- `batch-gradient-descent.ipynb`: Vectorized batch gradient descent
 - `sgd.py`: Per-sample stochastic gradient descent
 - `minibatch_gd.py`: Mini-batch with shuffling
 - `comparison.ipynb`: Benchmarks against sklearn
