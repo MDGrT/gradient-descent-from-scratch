@@ -14,6 +14,4 @@ Linear regression is finding the projection of y onto the column space of X. The
 
 ## Files
 - `batch-gradient-descent.ipynb`: Vectorized batch gradient descent
-- `sgd.py`: Per-sample stochastic gradient descent
-- `minibatch_gd.py`: Mini-batch with shuffling
-- `comparison.ipynb`: Benchmarks against sklearn
+- `stochastic-and-mini-batch.ipynb`:  Per-sample stochastic gradient descent. Mini-batch with shuffling
